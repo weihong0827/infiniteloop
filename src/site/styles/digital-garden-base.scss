@@ -167,11 +167,6 @@ ul.task-list {
 
     li {
         padding-top: 4px;
-        &::before {
-            content: "# " !important;
-            color: var(--text-accent);
-            font-size: 0.8rem;
-        }
         a {
             text-decoration: none;
             &:hover {
