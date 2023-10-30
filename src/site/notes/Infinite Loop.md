@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/infinite-loop/","title":"Welcome to Infinite Loop","tags":["blogs","gardenEntry"],"created":"2023-09-12T10:06:31.000+08:00","updated":"2023-10-30T20:49:02.987+08:00"}
+{"dg-publish":true,"permalink":"/infinite-loop/","title":"Welcome to Infinite Loop","tags":["blogs","gardenEntry"],"created":"2023-09-12T10:06:31.000+08:00","updated":"2023-10-30T20:56:55.813+08:00"}
 ---
 
 # Welcome to Infinite Loop
