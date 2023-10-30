@@ -61,6 +61,7 @@ module.exports = async (data) => {
     showCreated: process.env.SHOW_CREATED_TIMESTAMP == "true",
     showUpdated: process.env.SHOW_UPDATED_TIMESTAMP == "true",
   };
+
   const meta = {
     env: process.env.ELEVENTY_ENV,
     theme: process.env.THEME,
@@ -71,6 +72,11 @@ module.exports = async (data) => {
     baseTheme: process.env.BASE_THEME || "dark",
     siteName: process.env.SITE_NAME_HEADER || "Digital Garden",
     mainLanguage: process.env.SITE_MAIN_LANGUAGE || "en",
+    githubUrl: process.env.GITHUB_URL || "",
+    linkedInUrl: process.env.LINKEDIN_URL || "",
+    email: process.env.EMAIL || "",
+    author: process.env.AUTHOR || "",
+    youtube: process.env.YOUTUBE || "",
     siteBaseUrl: baseUrl,
     styleSettingsCss,
     buildDate: new Date(),
