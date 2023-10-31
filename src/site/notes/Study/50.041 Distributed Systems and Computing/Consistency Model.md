@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/study/50-041-distributed-systems-and-computing/consistency-model/","tags":["#lesson","distributedSystems"],"created":"2023-10-16T13:13:00.544+08:00","updated":"2023-10-31T00:11:54.044+08:00"}
+{"tags":["#lesson","distributedSystems"],"week":6,"creation date":"2023-10-16 13:13","modification date":"Monday 16th October 2023 13:13:00","reviewed":null,"summary":null,"course_name":"Distributed System","publish":true,"dg-publish":true,"permalink":"/study/50-041-distributed-systems-and-computing/consistency-model/","dgPassFrontmatter":true,"created":"2023-10-16T13:13:00.544+08:00","updated":"2023-10-31T14:46:06.252+08:00"}
 ---
 
 # Introduction
@@ -109,3 +109,31 @@ All `causally-related` read/write ops were executed in `an order that reflects t
 5. write 1.1 -> write 1.2 (causal order)
 
 Therefore base on 1 and 5, Read 2.1 -> write 1.2
+
+## Advantages
+- Parallel Operations
+	- parallel operations, that are not causally dependent, can be executed in different orders by different machines
+	- Sequential consistency enforces a global ordering among ALL operations
+	- Thus, performance should be better than sequentially consistent systems (strict order among read/write on the same object)
+	- On the same object, causally consistent systems never change the order of causally dependent updates across machines
+- Programming Ease?
+- Performance?
+
+
+# Total Store Order
+Machines might be able to change the order of read and write if they are on different objects, it does have to respect the program order
+>[!example]
+>a machine might execute w(x)a and r(y)? in any order. However, it cannot reorder, w(x)a and r(x)?
+
+## Rules
+1. Read by other machines `cannot return` a new value of an object `until the respective write to the same object` is observed by `all machines`.
+
+## Implementation
+1. Store buffer
+	1. fast, faster than Dram
+	2. periodically flush to [[Study/50.041 Distributed Systems and Computing/Consistency Model#Naive DSM protocol\|DSM]]
+	4. For `Write` 
+2. Invalidation
+	1. During `Read`
+	2. Invalidate all remote/local copies (other machine will be force to go to the share memory instead of their own memory)
+	3. 
