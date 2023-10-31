@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dynamo-clone/data-versioning/","tags":["todo"],"created":"2023-09-24T15:51:23.172+08:00","updated":"2023-10-31T00:10:19.124+08:00"}
+{"tags":["todo"],"creation date":"2023-09-24 15:51","modification date":"Sunday 24th September 2023 15:51:23","target date":null,"publish":true,"dg-publish":true,"permalink":"/projects/dynamo-clone/data-versioning/","dgPassFrontmatter":true,"created":"2023-09-24T15:51:23.172+08:00","updated":"2023-10-31T00:10:19.124+08:00"}
 ---
 
 # Introduction
