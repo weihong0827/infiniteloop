@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/study/50-041-distributed-systems-and-computing/clocks-and-synchronisation/","tags":["#lesson","clocks"],"created":"2023-09-18T12:09:14.397+08:00","updated":"2023-10-31T00:11:50.113+08:00"}
+{"tags":["#lesson","clocks"],"week":1,"creation date":"2023-09-18 12:09","modification date":"Monday 18th September 2023 12:09:14","reviewed":null,"summary":null,"course_name":"Distributed System","publish":true,"dg-publish":true,"permalink":"/study/50-041-distributed-systems-and-computing/clocks-and-synchronisation/","dgPassFrontmatter":true,"created":"2023-09-18T12:09:14.397+08:00","updated":"2023-10-31T00:11:50.113+08:00"}
 ---
 
 # Clocks
