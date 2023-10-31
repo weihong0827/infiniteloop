@@ -1,16 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/study/study-home/","tags":["home","study"],"created":"2023-09-07T10:30:53.662+08:00","updated":"2023-10-30T23:57:46.757+08:00"}
+{"publish":true,"tags":["home","study"],"dg-publish":true,"permalink":"/study/study-home/","dgPassFrontmatter":true,"created":"2023-09-07T10:30:53.662+08:00","updated":"2023-10-30T23:57:46.757+08:00"}
 ---
 
 
 # Data Structures
 | File                                                                      | reviewed | mastery |
 | ------------------------------------------------------------------------- | -------- | ------- |
-| [[Study/Data Structure and Algorithms/Bit Operations\|Bit Operations]] | false    | 4       |
-| [[Study/Data Structure and Algorithms/Binary Search\|Binary Search]]   | false    | 4       |
 | [[Study/Data Structure and Algorithms/Trie\|Trie]]                     | false    | 4       |
 | [[Study/Data Structure and Algorithms/Heap\|Heap]]                     | false    | 4       |
 | [[Study/Data Structure and Algorithms/DP\|DP]]                         | false    | 4       |
+| [[Study/Data Structure and Algorithms/Bit Operations\|Bit Operations]] | false    | 4       |
+| [[Study/Data Structure and Algorithms/Binary Search\|Binary Search]]   | false    | 4       |
 | [[Obsidian/Templates/Data struct Template\|Data struct Template]]      | false    | 4       |
 
 { .block-language-dataview}
