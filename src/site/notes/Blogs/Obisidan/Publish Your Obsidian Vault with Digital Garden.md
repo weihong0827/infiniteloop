@@ -1,9 +1,9 @@
 ---
-{"tags":["blogs","obsidian"],"Author":"Qiu Weihong","creation date":"2023-10-31 12:25","modification date":"Tuesday 31st October 2023 12:25:00","publish":true,"priority":null,"topics":["Obsidian"],"banner":"https://infitniteloop.s3.ap-southeast-1.amazonaws.com/banner/digitalgarden.png","dg-publish":true,"permalink":"/blogs/obisidan/publish-your-obsidian-vault-with-digital-garden/","dgPassFrontmatter":true,"created":"2023-10-31T12:25:00.191+08:00","updated":"2023-10-31T21:05:29.732+08:00"}
+{"tags":["blogs","obsidian"],"Author":"Qiu Weihong","creation date":"2023-10-31 12:25","modification date":"Tuesday 31st October 2023 12:25:00","publish":true,"priority":null,"topics":["Obsidian"],"banner":"https://infitniteloop.s3.ap-southeast-1.amazonaws.com/banner/digitalgarden.png","dg-publish":true,"permalink":"/blogs/obisidan/publish-your-obsidian-vault-with-digital-garden/","dgPassFrontmatter":true,"created":"2023-10-31T12:25:00.191+08:00","updated":"2023-10-31T23:32:24.287+08:00"}
 ---
 
 # Unfolding the Digital Garden: A Fresh Approach to Deploying Your Obsidian Vault
-I came in touch with the idea of digital garden recently and I feel that this is just what I needed to organise all my thoughts and learnings. Since then I switched from [[Blogs/Obisidan/Obsidian Learning\|notion to obsidian]] due to various reasons. After that I want to publish some of the things that i record online hoping that it could help someone in the future.
+I came in touch with the idea of digital garden recently and I feel that this is just what I needed to organise all my thoughts and learnings. Since then I switched from [[Blogs/Obisidan/A switch to Obsidian\|notion to obsidian]] due to various reasons. After that I want to publish some of the things that i record online hoping that it could help someone in the future.
 
 I have tried various methods, from [quartz](https://quartz.jzhao.xyz) to [obsidian publish](https://obsidian.md/publish) and now [digital-garden](https://obsidian.md/publish). I feel that this is the solution that I am looking for.
 
