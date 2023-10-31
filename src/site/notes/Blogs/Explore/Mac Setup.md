@@ -1,5 +1,5 @@
 ---
-{"tags":["blogs"],"Author":"Qiu Weihong","creation date":"2023-09-13 21:59","modification date":"Wednesday 13th September 2023 21:59:39","publish":true,"topics":["Explore"],"dg-publish":true,"permalink":"/blogs/explore/mac-setup/","dgPassFrontmatter":true,"created":"2023-09-13T21:59:39.000+08:00","updated":"2023-10-31T21:04:47.328+08:00"}
+{"tags":["blogs"],"Author":"Qiu Weihong","creation date":"2023-09-13 21:59","modification date":"Wednesday 13th September 2023 21:59:39","publish":true,"topics":["Explore"],"dg-publish":true,"banner":"https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&q=80&w=3272&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D","permalink":"/blogs/explore/mac-setup/","dgPassFrontmatter":true,"created":"2023-09-13T21:59:39.000+08:00","updated":"2023-10-31T23:09:16.973+08:00"}
 ---
 
 # Enhance Your Mac Experience with a Custom Setup Script
