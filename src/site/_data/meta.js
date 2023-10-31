@@ -3,6 +3,8 @@ const axios = require("axios");
 const fs = require("fs");
 const crypto = require("crypto");
 const { globSync } = require("glob");
+const social = require("./social");
+
 
 module.exports = async (data) => {
   let baseUrl = process.env.SITE_BASE_URL || "";
@@ -72,11 +74,11 @@ module.exports = async (data) => {
     baseTheme: process.env.BASE_THEME || "dark",
     siteName: process.env.SITE_NAME_HEADER || "Digital Garden",
     mainLanguage: process.env.SITE_MAIN_LANGUAGE || "en",
-    githubUrl: process.env.GITHUB_URL || "",
-    linkedInUrl: process.env.LINKEDIN_URL || "",
-    email: process.env.EMAIL || "",
-    author: process.env.AUTHOR || "",
-    youtube: process.env.YOUTUBE || "",
+    githubUrl: social.github || "",
+    linkedInUrl: social.linkedin || "",
+    email: social.email || "",
+    author: social.author || "",
+    youtube: social.youtube || "",
     siteBaseUrl: baseUrl,
     styleSettingsCss,
     buildDate: new Date(),
