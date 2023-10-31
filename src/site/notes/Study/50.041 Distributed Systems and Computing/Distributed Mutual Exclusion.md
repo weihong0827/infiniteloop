@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/study/50-041-distributed-systems-and-computing/distributed-mutual-exclusion/","tags":["#lesson","distributedSystems"],"created":"2023-10-03T14:22:09.092+08:00","updated":"2023-10-31T00:12:02.876+08:00"}
+{"tags":["#lesson","distributedSystems"],"week":4,"creation date":"2023-10-03 14:22","modification date":"Tuesday 3rd October 2023 14:22:09","reviewed":null,"summary":null,"course_name":"Distributed System","publish":true,"dg-publish":true,"permalink":"/study/50-041-distributed-systems-and-computing/distributed-mutual-exclusion/","dgPassFrontmatter":true,"created":"2023-10-03T14:22:09.092+08:00","updated":"2023-10-31T00:12:02.876+08:00"}
 ---
 
 # Distributed Mutual Exclusion Introduction
