@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/infinite-loop/","title":"Welcome to Infinite Loop","tags":["gardenEntry"],"created":"2023-09-12T10:06:31.000+08:00","updated":"2023-10-30T23:55:26.624+08:00"}
+{"tags":["gardenEntry"],"Author":"Qiu Weihong","creation date":"2023-09-12 10:06","modification date":"Tuesday 12th September 2023 10:06:31","publish":true,"title":"Welcome to Infinite Loop","aliases":["Home"],"dg-publish":true,"dg-home":true,"dg-show-tags":false,"banner":"https://images.unsplash.com/photo-1698515228922-fb34e0e992a8?auto=format&fit=crop&q=80&w=387&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D","permalink":"/infinite-loop/","dgPassFrontmatter":true,"created":"2023-09-12T10:06:31.000+08:00","updated":"2023-10-30T23:55:26.624+08:00"}
 ---
 
 # Welcome to Infinite Loop
