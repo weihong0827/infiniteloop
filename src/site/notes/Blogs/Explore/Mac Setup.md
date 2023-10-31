@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blogs/explore/mac-setup/","tags":["blogs"],"created":"2023-09-13T21:59:39.000+08:00","updated":"2023-10-31T21:04:47.328+08:00"}
+{"tags":["blogs"],"Author":"Qiu Weihong","creation date":"2023-09-13 21:59","modification date":"Wednesday 13th September 2023 21:59:39","publish":true,"topics":["Explore"],"dg-publish":true,"permalink":"/blogs/explore/mac-setup/","dgPassFrontmatter":true,"created":"2023-09-13T21:59:39.000+08:00","updated":"2023-10-31T21:04:47.328+08:00"}
 ---
 
 # Enhance Your Mac Experience with a Custom Setup Script
