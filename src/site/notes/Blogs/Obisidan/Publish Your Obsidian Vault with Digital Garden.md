@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blogs/obisidan/publish-your-obsidian-vault-with-digital-garden/","tags":["todo","blogs","obsidian"],"created":"2023-10-31T12:25:00.191+08:00","updated":"2023-10-31T20:58:40.152+08:00"}
+{"dg-publish":true,"permalink":"/blogs/obisidan/publish-your-obsidian-vault-with-digital-garden/","tags":["blogs","obsidian"],"created":"2023-10-31T12:25:00.191+08:00","updated":"2023-10-31T21:05:29.732+08:00"}
 ---
 
 # Unfolding the Digital Garden: A Fresh Approach to Deploying Your Obsidian Vault
