@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/sut-dfolio/","tags":["DigitalOcean","Docker","Nodejs","Projects","Quilljs","Reactjs","Redis","DevOps"],"created":"2023-10-27T15:22:30.770+08:00","updated":"2023-10-31T00:10:04.418+08:00"}
+{"tags":["DigitalOcean","Docker","Nodejs","Projects","Quilljs","Reactjs","Redis","DevOps"],"creation date":"2023-10-27 15:22","modification date":"Friday 27th October 2023 15:22:30","target date":null,"publish":true,"Author":"Qiu Weihong","Description":"The technical specifications behind the creation of sutdfolio","aliases":["SUTDfolio"],"dg-publish":true,"permalink":"/projects/sut-dfolio/","dgPassFrontmatter":true,"created":"2023-10-27T15:22:30.770+08:00","updated":"2023-10-31T00:10:04.418+08:00"}
 ---
 
 
