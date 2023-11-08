@@ -1,5 +1,5 @@
 ---
-{"tags":["blogs","obsidian"],"Author":"Qiu Weihong","creation date":"2023-10-31 12:25","modification date":"Tuesday 31st October 2023 12:25:00","publish":true,"priority":null,"topics":["Obsidian"],"banner":"https://infitniteloop.s3.ap-southeast-1.amazonaws.com/banner/digitalgarden.png","dg-publish":true,"permalink":"/blogs/obisidan/publish-your-obsidian-vault-with-digital-garden/","dgPassFrontmatter":true,"created":"2023-10-31T12:25:00.191+08:00","updated":"2023-10-31T23:32:24.287+08:00"}
+{"tags":["blogs","obsidian"],"Author":"Qiu Weihong","creation date":"2023-10-31 12:25","modification date":"Tuesday 31st October 2023 12:25:00","publish":true,"priority":null,"topics":["Obsidian"],"banner":"https://infitniteloop.s3.ap-southeast-1.amazonaws.com/banner/digitalgarden.png","dg-publish":true,"permalink":"/blogs/obisidan/publish-your-obsidian-vault-with-digital-garden/","dgPassFrontmatter":true,"created":"2023-10-31T12:25:00.191+08:00","updated":"2023-11-01T10:04:27.096+08:00"}
 ---
 
 # Unfolding the Digital Garden: A Fresh Approach to Deploying Your Obsidian Vault
@@ -66,6 +66,7 @@ In digital-garden, you can include the TOC for the current note in the side bar,
 There are some ideas that I want to customize my website, but dont have the time to do yet.
 - [ ] display the dataview table with banner and tags.
 - [ ] add a link to every heading for users to copy
+- [ ] open graph social media link preview
 
 # Find out more
 If you are interested in how this website looks ultimately, i believe you are already experiencing it. If you wish to explore more on how I did the customizations, check out the [source code](https://github.com/weihong0827/infiniteloop) 
