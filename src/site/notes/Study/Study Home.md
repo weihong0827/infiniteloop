@@ -6,11 +6,11 @@
 # Data Structures
 | File                                                                      | reviewed | mastery |
 | ------------------------------------------------------------------------- | -------- | ------- |
-| [[Study/Data Structure and Algorithms/Binary Search\|Binary Search]]   | false    | 4       |
 | [[Study/Data Structure and Algorithms/Bit Operations\|Bit Operations]] | false    | 4       |
+| [[Study/Data Structure and Algorithms/Binary Search\|Binary Search]]   | false    | 4       |
 | [[Study/Data Structure and Algorithms/Trie\|Trie]]                     | false    | 4       |
-| [[Study/Data Structure and Algorithms/Heap\|Heap]]                     | false    | 4       |
 | [[Study/Data Structure and Algorithms/DP\|DP]]                         | false    | 4       |
+| [[Study/Data Structure and Algorithms/Heap\|Heap]]                     | false    | 4       |
 | [[Obsidian/Templates/Data struct Template\|Data struct Template]]      | false    | 4       |
 
 { .block-language-dataview}
