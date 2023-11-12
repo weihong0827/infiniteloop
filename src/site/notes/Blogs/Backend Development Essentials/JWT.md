@@ -1,5 +1,5 @@
 ---
-{"tags":["blogs","Backend","Authentication"],"Author":"Qiu Weihong","creation date":"2023-10-15 21:52","modification date":"Sunday 15th October 2023 21:52:46","publish":true,"priority":null,"topics":["Backend Essential"],"dg-publish":true,"permalink":"/blogs/backend-development-essentials/jwt/","dgPassFrontmatter":true,"created":"2023-10-15T21:52:46.055+08:00","updated":"2023-10-30T23:55:40.187+08:00"}
+{"tags":["blogs","Backend","Authentication"],"Author":"Qiu Weihong","creation date":"2023-10-15 21:52","modification date":"Sunday 15th October 2023 21:52:46","publish":true,"priority":null,"topics":["Backend Essential"],"dg-publish":true,"banner":"https://infitniteloop.s3.ap-southeast-1.amazonaws.com/banner/jwt.png","permalink":"/blogs/backend-development-essentials/jwt/","dgPassFrontmatter":true,"created":"2023-10-15T21:52:46.055+08:00","updated":"2023-11-12T21:29:45.365+08:00"}
 ---
 
 
