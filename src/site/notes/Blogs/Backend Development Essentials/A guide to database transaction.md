@@ -1,5 +1,5 @@
 ---
-{"tags":["blogs","Database"],"Author":"Qiu Weihong","creation date":"2023-11-12 20:18","modification date":"Sunday 12th November 2023 20:18:33","publish":null,"priority":null,"topics":["Backend Essential"],"banner":null,"dg-publish":true,"permalink":"/blogs/backend-development-essentials/a-guide-to-database-transaction/","dgPassFrontmatter":true,"created":"2023-11-12T20:18:33.124+08:00","updated":"2023-11-12T20:35:13.022+08:00"}
+{"tags":["blogs","Database"],"Author":"Qiu Weihong","creation date":"2023-11-12 20:18","modification date":"Sunday 12th November 2023 20:18:33","publish":null,"priority":null,"topics":["Backend Essential"],"banner":"https://infitniteloop.s3.ap-southeast-1.amazonaws.com/banner/db-transaction.png","dg-publish":true,"permalink":"/blogs/backend-development-essentials/a-guide-to-database-transaction/","dgPassFrontmatter":true,"created":"2023-11-12T20:18:33.124+08:00","updated":"2023-11-12T21:29:58.387+08:00"}
 ---
 
 
