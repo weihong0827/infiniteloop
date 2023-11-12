@@ -1,5 +1,5 @@
 ---
-{"tags":["blogs"],"Author":"Qiu Weihong","creation date":"2023-11-12 15:41","modification date":"Sunday 12th November 2023 15:41:23","publish":null,"priority":null,"topics":["Backend Essential"],"banner":"https://infitniteloop.s3.ap-southeast-1.amazonaws.com/banner/distributed+lock.png","dg-publish":true,"permalink":"/blogs/backend-development-essentials/understanding-and-implementing-distributed-locks/","dgPassFrontmatter":true,"created":"2023-11-12T15:41:23.574+08:00","updated":"2023-11-12T20:00:59.742+08:00"}
+{"tags":["blogs"],"Author":"Qiu Weihong","creation date":"2023-11-12 15:41","modification date":"Sunday 12th November 2023 15:41:23","publish":null,"priority":null,"topics":["Backend Essential"],"banner":"https://infitniteloop.s3.ap-southeast-1.amazonaws.com/banner/distributed+lock.png","dg-publish":true,"permalink":"/blogs/backend-development-essentials/understanding-and-implementing-distributed-locks/","dgPassFrontmatter":true,"created":"2023-11-12T15:41:23.574+08:00","updated":"2023-11-12T21:26:58.025+08:00"}
 ---
 
 
