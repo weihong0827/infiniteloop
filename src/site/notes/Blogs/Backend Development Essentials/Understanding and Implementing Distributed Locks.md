@@ -1,5 +1,5 @@
 ---
-{"tags":["blogs"],"Author":"Qiu Weihong","creation date":"2023-11-12 15:41","modification date":"Sunday 12th November 2023 15:41:23","publish":null,"priority":null,"topics":["Backend Essential"],"banner":"https://infitniteloop.s3.ap-southeast-1.amazonaws.com/banner/distributed+lock.png","dg-publish":true,"permalink":"/blogs/backend-development-essentials/understanding-and-implementing-distributed-locks/","dgPassFrontmatter":true,"created":"2023-11-12T15:41:23.574+08:00","updated":"2023-11-12T21:26:58.025+08:00"}
+{"tags":["blogs"],"Author":"Qiu Weihong","creation date":"2023-11-12 15:41","modification date":"Sunday 12th November 2023 15:41:23","publish":null,"priority":null,"topics":["Backend Essential"],"banner":"https://infitniteloop.s3.ap-southeast-1.amazonaws.com/banner/distributed+lock.png","dg-publish":true,"permalink":"/blogs/backend-development-essentials/understanding-and-implementing-distributed-locks/","dgPassFrontmatter":true,"created":"2023-11-12T15:41:23.574+08:00","updated":"2023-11-12T21:36:39.816+08:00"}
 ---
 
 
@@ -58,6 +58,7 @@ Redis often emerges as the best performer for implementing distributed locks due
 	- If lock expiration is set to 30s and code execution took 40s
 	- after lock expires, another thread took the lock
 	- code execution finish, delete the lock that does not belong to that program
+[[Understanding and Implementing Distributed Locks 2023-11-12 15.49.23.excalidraw.svg]]
 ![](Understanding%20and%20Implementing%20Distributed%20Locks%202023-11-12%2015.49.23.excalidraw.svg)
 
 
