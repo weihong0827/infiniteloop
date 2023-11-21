@@ -1,5 +1,5 @@
 ---
-{"tags":["#lesson","distributedSystems"],"week":6,"creation date":"2023-10-16 13:13","modification date":"Monday 16th October 2023 13:13:00","reviewed":null,"summary":null,"course_name":"Distributed System","publish":true,"dg-publish":true,"permalink":"/study/50-041-distributed-systems-and-computing/consistency-model/","dgPassFrontmatter":true,"created":"2023-10-16T13:13:00.544+08:00","updated":"2023-11-07T14:01:18.054+08:00"}
+{"tags":["#lesson","distributedSystems"],"week":6,"creation date":"2023-10-16 13:13","modification date":"Monday 16th October 2023 13:13:00","reviewed":null,"summary":null,"course_name":"Distributed System","publish":true,"dg-publish":true,"permalink":"/study/50-041-distributed-systems-and-computing/consistency-model/","dgPassFrontmatter":true,"created":"2023-10-16T13:13:00.000+08:00","updated":"2023-11-07T14:01:18.000+08:00"}
 ---
 
 # Introduction
