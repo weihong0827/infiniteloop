@@ -1,5 +1,5 @@
 ---
-{"tags":["#lesson"],"week":3,"creation date":"2023-10-15 17:22","modification date":"Sunday 15th October 2023 17:22:43","reviewed":null,"summary":null,"course_name":"Network Security","publish":true,"dg-publish":true,"permalink":"/study/50-041-distributed-systems-and-computing/coordinator-election/","dgPassFrontmatter":true,"created":"2023-10-15T17:22:43.539+08:00","updated":"2023-10-31T00:11:58.938+08:00"}
+{"tags":["#lesson"],"week":3,"creation date":"2023-10-15 17:22","modification date":"Sunday 15th October 2023 17:22:43","reviewed":null,"summary":null,"course_name":"Network Security","publish":true,"dg-publish":true,"permalink":"/study/50-041-distributed-systems-and-computing/coordinator-election/","dgPassFrontmatter":true,"created":"2023-10-15T17:22:43.000+08:00","updated":"2023-10-31T00:11:58.000+08:00"}
 ---
 
 
