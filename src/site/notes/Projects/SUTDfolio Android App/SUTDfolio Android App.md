@@ -1,5 +1,5 @@
 ---
-{"Tags":["Android","Java"],"Published":"2022-07-26","Last Updated":"2022-07-26T23:30","Author":"Qiu Weihong","Created":"2022-07-26T22:38","Description":"Android App version of SUTDfolio coded using Java","publish":true,"dg-publish":true,"permalink":"/projects/sut-dfolio-android-app/sut-dfolio-android-app/","dgPassFrontmatter":true,"created":"2023-09-07T23:34:00.891+08:00","updated":"2023-10-30T20:54:21.356+08:00"}
+{"Tags":["Android","Java"],"Published":"2022-07-26","Last Updated":"2022-07-26T23:30","Author":"Qiu Weihong","Created":"2022-07-26T22:38","Description":"Android App version of SUTDfolio coded using Java","publish":true,"dg-publish":true,"permalink":"/projects/sut-dfolio-android-app/sut-dfolio-android-app/","dgPassFrontmatter":true,"created":"2023-09-07T23:34:00.000+08:00","updated":"2023-10-30T20:54:21.000+08:00"}
 ---
 
 # Background
