@@ -1,5 +1,5 @@
 ---
-{"tags":["blogs","Jmeter"],"Author":"Qiu Weihong","creation date":"2023-11-12 14:43","modification date":"Sunday 12th November 2023 14:43:57","publish":null,"priority":null,"topics":["Backend Essential"],"banner":"https://infitniteloop.s3.ap-southeast-1.amazonaws.com/banner/load-testing-banner.png","dg-publish":true,"permalink":"/blogs/backend-development-essentials/load-testing-using-jmeter/","dgPassFrontmatter":true,"created":"2023-11-12T14:43:57.302+08:00","updated":"2023-11-12T15:11:52.732+08:00"}
+{"tags":["blogs","Jmeter"],"Author":"Qiu Weihong","creation date":"2023-11-12 14:43","modification date":"Sunday 12th November 2023 14:43:57","publish":null,"priority":null,"topics":["Backend Essential"],"banner":"https://infitniteloop.s3.ap-southeast-1.amazonaws.com/banner/load-testing-banner.png","dg-publish":true,"permalink":"/blogs/backend-development-essentials/load-testing-using-jmeter/","dgPassFrontmatter":true,"created":"2023-11-12T14:43:57.000+08:00","updated":"2023-11-12T15:11:52.000+08:00"}
 ---
 
 In this blog post, we'll compare commonly used testing tools and delve into the basics of JMeter, a popular choice in backend development for performance testing. We'll cover its installation, basic components, and how to interpret aggregate reports from tests.
