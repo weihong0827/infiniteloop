@@ -1,5 +1,5 @@
 ---
-{"tags":["blogs","obsidian"],"Author":"Qiu Weihong","creation date":"2023-10-31 12:25","modification date":"Tuesday 31st October 2023 12:25:00","publish":true,"priority":null,"topics":["Obsidian"],"banner":"https://infitniteloop.s3.ap-southeast-1.amazonaws.com/banner/digitalgarden.png","dg-publish":true,"permalink":"/blogs/obisidan/publish-your-obsidian-vault-with-digital-garden/","dgPassFrontmatter":true,"created":"2023-10-31T12:25:00.191+08:00","updated":"2023-11-01T10:04:27.096+08:00"}
+{"tags":["blogs","obsidian"],"Author":"Qiu Weihong","creation date":"2023-10-31 12:25","modification date":"Tuesday 31st October 2023 12:25:00","publish":true,"priority":null,"topics":["Obsidian"],"banner":"https://infitniteloop.s3.ap-southeast-1.amazonaws.com/banner/digitalgarden.png","dg-publish":true,"permalink":"/blogs/obisidan/publish-your-obsidian-vault-with-digital-garden/","dgPassFrontmatter":true,"created":"2023-10-31T12:25:00.000+08:00","updated":"2023-11-01T10:04:27.000+08:00"}
 ---
 
 # Unfolding the Digital Garden: A Fresh Approach to Deploying Your Obsidian Vault
