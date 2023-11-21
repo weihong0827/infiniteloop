@@ -1,5 +1,5 @@
 ---
-{"tags":["blogs"],"Author":"Qiu Weihong","creation date":"2023-11-04 16:40","modification date":"Saturday 4th November 2023 16:40:07","publish":null,"priority":null,"topics":["Tips and Tricks"],"banner":null,"dg-publish":true,"permalink":"/blogs/tips-and-tricks/the-perils-of-accidentally-committing-env-files-to-git-hub-and-how-to-fix-it/","dgPassFrontmatter":true,"created":"2023-11-04T16:40:07.486+08:00","updated":"2023-11-08T09:55:02.474+08:00"}
+{"tags":["blogs"],"Author":"Qiu Weihong","creation date":"2023-11-04 16:40","modification date":"Saturday 4th November 2023 16:40:07","publish":null,"priority":null,"topics":["Tips and Tricks"],"banner":null,"dg-publish":true,"permalink":"/blogs/tips-and-tricks/the-perils-of-accidentally-committing-env-files-to-git-hub-and-how-to-fix-it/","dgPassFrontmatter":true,"created":"2023-11-04T16:40:07.000+08:00","updated":"2023-11-08T09:55:02.000+08:00"}
 ---
 
 
