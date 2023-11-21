@@ -1,5 +1,5 @@
 ---
-{"tags":["obsidian","blogs"],"aliases":null,"Author":"Qiu Weihong","Date Added":"2023-09-06","publish":true,"description":"My usage of Obsidian","topics":["Obsidian"],"dg-publish":true,"banner":"https://obsidian.md/images/screenshot-1.0-hero-combo.png","permalink":"/blogs/obisidan/a-switch-to-obsidian/","dgPassFrontmatter":true,"created":"2023-09-12T10:08:18.000+08:00","updated":"2023-10-31T23:51:32.680+08:00"}
+{"tags":["obsidian","blogs"],"aliases":null,"Author":"Qiu Weihong","Date Added":"2023-09-06","publish":true,"description":"My usage of Obsidian","topics":["Obsidian"],"dg-publish":true,"banner":"https://obsidian.md/images/screenshot-1.0-hero-combo.png","permalink":"/blogs/obisidan/a-switch-to-obsidian/","dgPassFrontmatter":true,"created":"2023-09-12T10:08:18.000+08:00","updated":"2023-10-31T23:51:32.000+08:00"}
 ---
 
 # Primary Objective and initial thoughts
