@@ -1,5 +1,5 @@
 ---
-{"Tags":["Nextjs","Postgres","Projects","Testing","Web Dev","golang"],"Description":"This is school collaboration project for one of our course Elements of Software Construction, with Ascenda to build a loyalty point system that offer their customers with the abilities to convert their own loyalty currency to a variety of other third party loyalty currencies.","publish":true,"dg-publish":true,"permalink":"/projects/ascenda-loyalty-point-system/","dgPassFrontmatter":true,"created":"2023-10-27T15:38:51.876+08:00","updated":"2023-10-31T00:09:58.655+08:00"}
+{"Tags":["Nextjs","Postgres","Projects","Testing","Web Dev","golang"],"Description":"This is school collaboration project for one of our course Elements of Software Construction, with Ascenda to build a loyalty point system that offer their customers with the abilities to convert their own loyalty currency to a variety of other third party loyalty currencies.","publish":true,"dg-publish":true,"permalink":"/projects/ascenda-loyalty-point-system/","dgPassFrontmatter":true,"created":"2023-10-27T15:38:51.000+08:00","updated":"2023-10-31T00:09:58.000+08:00"}
 ---
 
   
