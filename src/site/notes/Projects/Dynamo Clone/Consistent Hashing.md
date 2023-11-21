@@ -1,5 +1,5 @@
 ---
-{"tags":["distributedSystems","Project"],"creation date":"2023-09-24 14:20","modification date":"Sunday 24th September 2023 14:20:26","target date":null,"publish":true,"dg-publish":true,"permalink":"/projects/dynamo-clone/consistent-hashing/","dgPassFrontmatter":true,"created":"2023-09-24T14:20:26.188+08:00","updated":"2023-10-31T00:10:14.739+08:00"}
+{"tags":["distributedSystems","Project"],"creation date":"2023-09-24 14:20","modification date":"Sunday 24th September 2023 14:20:26","target date":null,"publish":true,"dg-publish":true,"permalink":"/projects/dynamo-clone/consistent-hashing/","dgPassFrontmatter":true,"created":"2023-09-24T14:20:26.000+08:00","updated":"2023-10-31T00:10:14.000+08:00"}
 ---
 
 # Consistent Hashing
