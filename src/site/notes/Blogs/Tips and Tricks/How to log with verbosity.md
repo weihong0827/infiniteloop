@@ -1,5 +1,5 @@
 ---
-{"tags":["blogs"],"Author":"Qiu Weihong","creation date":"2023-11-08 09:54","modification date":"Wednesday 8th November 2023 09:54:11","publish":null,"priority":null,"topics":["Tips and Tricks"],"banner":null,"dg-publish":true,"permalink":"/blogs/tips-and-tricks/how-to-log-with-verbosity/","dgPassFrontmatter":true,"created":"2023-11-08T09:54:11.344+08:00","updated":"2023-11-08T09:54:55.522+08:00"}
+{"tags":["blogs"],"Author":"Qiu Weihong","creation date":"2023-11-08 09:54","modification date":"Wednesday 8th November 2023 09:54:11","publish":null,"priority":null,"topics":["Tips and Tricks"],"banner":null,"dg-publish":true,"permalink":"/blogs/tips-and-tricks/how-to-log-with-verbosity/","dgPassFrontmatter":true,"created":"2023-11-08T09:54:11.000+08:00","updated":"2023-11-08T09:54:55.000+08:00"}
 ---
 
 ---
