@@ -1,5 +1,5 @@
 ---
-{"tags":["blogs"],"Author":"Qiu Weihong","creation date":"2023-11-18 16:28","modification date":"Saturday 18th November 2023 16:28:15","publish":null,"priority":null,"topics":["Backend Essential"],"banner":null,"dg-publish":true,"permalink":"/blogs/backend-development-essentials/distributed-transactions-concepts-and-importance/","dgPassFrontmatter":true,"created":"2023-11-18T16:28:15.654+08:00","updated":"2023-11-20T23:17:04.982+08:00"}
+{"tags":["blogs"],"Author":"Qiu Weihong","creation date":"2023-11-18 16:28","modification date":"Saturday 18th November 2023 16:28:15","publish":null,"priority":null,"topics":["Backend Essential"],"banner":null,"dg-publish":true,"permalink":"/blogs/backend-development-essentials/distributed-transactions-concepts-and-importance/","dgPassFrontmatter":true,"created":"2023-11-18T16:28:15.000+08:00","updated":"2023-11-20T23:17:04.000+08:00"}
 ---
 
 # Introduction
